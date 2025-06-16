@@ -1,1 +1,1 @@
-![3D Contributions](./profile-3d-contrib/profile-green-animate.svg)
+![profile-3d](/profile-3d-contrib/profile-night-green.svg)
